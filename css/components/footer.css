@@ -1,0 +1,33 @@
+.footer{
+  text-align: center;
+  padding: 25px;
+  background-color: #2c2b2b;
+}
+
+ul{
+  padding: 0px;
+}
+
+ul li{
+  list-style: none;
+  padding: 0px;
+  display: inline;
+}
+
+.social-media{
+  color: #1edd88;
+  font-size: 25px;
+  margin: 10px;
+  opacity: 0.9;
+  
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.social-media:hover{
+  opacity: 1;
+}
+
+
